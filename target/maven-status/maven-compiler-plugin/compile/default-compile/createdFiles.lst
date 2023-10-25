@@ -1,0 +1,10 @@
+br/com/gustavodedeus/todolist/task/TaskModel.class
+br/com/gustavodedeus/todolist/user/UserModel.class
+br/com/gustavodedeus/todolist/TodolistApplication.class
+br/com/gustavodedeus/todolist/task/TaskController.class
+br/com/gustavodedeus/todolist/filter/FilterTaskAuth.class
+br/com/gustavodedeus/todolist/utils/Utils.class
+br/com/gustavodedeus/todolist/user/UserController.class
+br/com/gustavodedeus/todolist/user/IUserRepository.class
+br/com/gustavodedeus/todolist/task/ITaskRepository.class
+br/com/gustavodedeus/todolist/errors/ExceptionHandlerController.class

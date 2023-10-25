@@ -1,0 +1,10 @@
+/home/gustavo/Documentos/todolist/src/main/java/br/com/gustavodedeus/todolist/user/UserModel.java
+/home/gustavo/Documentos/todolist/src/main/java/br/com/gustavodedeus/todolist/user/IUserRepository.java
+/home/gustavo/Documentos/todolist/src/main/java/br/com/gustavodedeus/todolist/task/TaskController.java
+/home/gustavo/Documentos/todolist/src/main/java/br/com/gustavodedeus/todolist/utils/Utils.java
+/home/gustavo/Documentos/todolist/src/main/java/br/com/gustavodedeus/todolist/TodolistApplication.java
+/home/gustavo/Documentos/todolist/src/main/java/br/com/gustavodedeus/todolist/task/TaskModel.java
+/home/gustavo/Documentos/todolist/src/main/java/br/com/gustavodedeus/todolist/filter/FilterTaskAuth.java
+/home/gustavo/Documentos/todolist/src/main/java/br/com/gustavodedeus/todolist/task/ITaskRepository.java
+/home/gustavo/Documentos/todolist/src/main/java/br/com/gustavodedeus/todolist/user/UserController.java
+/home/gustavo/Documentos/todolist/src/main/java/br/com/gustavodedeus/todolist/errors/ExceptionHandlerController.java
